@@ -1,4 +1,4 @@
-# 📊 KPI Data Analysis in Python
+# 📊 Data Analysis in Python
 
 This repository contains a Python project where the assignment focuses on building a structured and interactive data analysis tool that examines **Consumer Price Index (CPI)** and price trends across various categories from 1980 to 2022.
 
